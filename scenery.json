@@ -1,0 +1,10 @@
+﻿{
+    "HappyEmoji": {
+		"model": "happyemoji",
+		"type": "deco",
+		"price": 30.0,
+		"grid": false,
+		"snapCenter": false
+		"heightDelta": 2.0
+	}
+}
